@@ -9,6 +9,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                 <li class="nav-item"><a class="nav-link" href="https://geti.id/geti-incubator/">Website Kami</a></li>
+                <li class="nav-item"><a class="nav-link" href="tabel.php">hasil penerimaan</a></li>
 
                 <!-- New Login Menu -->
                 <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
